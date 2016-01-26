@@ -1,1 +1,18 @@
+
+
 # Created by .ignore support plugin (hsz.mobi)
+=======
+pom.xml
+pom.xml.asc
+*jar
+/lib/
+/classes/
+/resources/public/js/compiled
+/target
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+

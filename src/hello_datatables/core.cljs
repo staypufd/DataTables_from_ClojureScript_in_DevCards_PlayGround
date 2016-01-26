@@ -20,9 +20,15 @@
              [:h1 "This is your first devcard! Woot! Woot! Go Clojure"]
              [:div (.ready (js/$ js/document)
                            (fn []
-                             (let [dataobj (clj->js {"data"
-                                                    [["Tiger Nixon" "System Architect" "Edinburgh" 61 "2011/04/25" "$320,800"]
-                                                     ["Tim Garrett"	"Accountant"	"Tokyo"	63	"2011/07/25"	"$170,750"]]})]
+                             (let [dataobj (clj->js {"data" [["Tiger Nixon" "System Architect" "Edinburgh" 61 "2011/04/25" "$320,800"]
+                                                             ["Tim Garrett"	"Accountant"	"Tokyo"	63	"2011/07/25"	"$170,750"]]
+                                                     "columns"
+                                                            [{ "title" "Name" },
+                                                             { "title" "Position" },
+                                                             { "title" "Office" },
+                                                             { "title" "Age" },
+                                                             { "title" "Start date" },
+                                                             { "title" "Salary" }]})]
                              (js/console.log (pr-str dataobj))
                              (.DataTable (js/jQuery "#example")
                                          dataobj))))]]))
