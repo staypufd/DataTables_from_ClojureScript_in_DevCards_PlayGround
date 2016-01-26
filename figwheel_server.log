@@ -1,0 +1,479 @@
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.153 seconds.[0m
+sending changed CSS file: resources/public/css/jquery.dataTables.min.css
+sending changed CSS file: resources/public/css/bootstrap-theme.css
+sending changed CSS file: resources/public/css/dataTables.bootstrap.css
+sending changed CSS file: resources/public/css/dataTables.editor.min.css
+sending changed CSS file: resources/public/css/font-awesome.css
+sending changed CSS file: resources/public/css/font-awesome.min.css
+sending changed CSS file: resources/public/css/bootstrap.css
+sending changed CSS file: resources/public/css/jquery.dataTables.css
+sending changed CSS file: resources/public/css/bootstrap-datetimepicker.min.css
+sending changed CSS file: resources/public/css/dataTables.tableTools.min.css
+sending changed CSS file: resources/public/css/bootstrap.min.css
+sending changed CSS file: resources/public/css/bootstrap-theme.min.css
+sending changed CSS file: resources/public/css/jquery.dataTables_themeroller.css
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/Datatables at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/Datatables at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.47 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/Datatable at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/Datatable at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.39 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.5 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.561 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.57 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.575 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.898 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.921 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/Datatable at line 13 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.383 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/new at line 13 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/Datatable at line 13 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.412 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.568 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.618 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.158 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.133 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.124 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.133 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.111 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: No such namespace: reagent, could not locate reagent.cljs, reagent.cljc, or Closure namespace "" at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var reagent/dom-node at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: No such namespace: reagent, could not locate reagent.cljs, reagent.cljc, or Closure namespace "" at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var reagent/dom-node at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: No such namespace: reagent, could not locate reagent.cljs, reagent.cljc, or Closure namespace "" at line 14 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var reagent/create-class at line 14 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/home-render at line 14 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: No such namespace: reagent, could not locate reagent.cljs, reagent.cljc, or Closure namespace "" at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var reagent/dom-node at line 11 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: No such namespace: reagent, could not locate reagent.cljs, reagent.cljc, or Closure namespace "" at line 14 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var reagent/create-class at line 14 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/home-render at line 14 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mANALYSIS ERROR: Unknown dot form of (. nil DataTable nil) with classification [:cljs.analyzer/error :cljs.analyzer/symbol ()] at line 15 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 15, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 1.115 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/first-card at line 23 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.147 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.155 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.461 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.446 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.396 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.115 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 24, column 55
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/clj-js at line 24 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.501 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 25, column 2
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/clj-js at line 24 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 26, column 103
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.548 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.125 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.319 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 25, column 109
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.546 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.422 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.76 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.883 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.49 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.358 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 26, column 114
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 24, column 99
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.364 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.188 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 25, column 112
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.096 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 25, column 113
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.085 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Invalid token: data: on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 24, column 40
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.086 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Invalid token: : on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 24, column 44
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.068 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 25, column 114
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.063 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 25, column 114
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.064 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.13 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 26 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/pprint at line 25 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 25 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 27 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: No such namespace: core, could not locate core.cljs, core.cljc, or Closure namespace "" at line 25 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var core/pprint at line 25 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 25 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 27 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 25 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+WARNING: Use of undeclared Var hello-world.core/dataobj at line 27 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_world_devcards.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 23 /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 23, column 30
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.21 seconds.[0m
