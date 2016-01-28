@@ -2,94 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1174073-77bb-457f-af34-99975f2fb4d6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/DataTables_with_ClojureScript/core.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/DataTables_with_ClojureScript/core.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/DataTables_with_ClojureScript/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/DataTables_with_ClojureScript/core.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_world/core.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_world/core.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_world/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_world/core.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/hello_world_devcards.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/hello_datatables/core.cljs" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.nrepl-port" afterPath="$PROJECT_DIR$/.nrepl-port" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="$PROJECT_DIR$/figwheel_server.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/cards.html" afterPath="$PROJECT_DIR$/resources/public/cards.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/index.html" afterPath="$PROJECT_DIR$/resources/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/buffers.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/buffers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/buffers.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/buffers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/channels.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/channels.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/channels.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/channels.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/channels.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/channels.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/dispatch.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/dispatch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/dispatch.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/dispatch.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/ioc_helpers.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/ioc_helpers.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/ioc_helpers.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/ioc_helpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/ioc_helpers.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/ioc_helpers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/protocols.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/protocols.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/protocols.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/protocols.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/timers.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/timers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/timers.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/core/async/impl/timers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/pprint.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/pprint.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/pprint.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/pprint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/pprint.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/pprint.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/reader.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/reader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/reader.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/reader.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/repl.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/repl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/repl.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/repl.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/test.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/test.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/cljs/test.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/set.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/set.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/set.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/set.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/string.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/string.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/string.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/clojure/string.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/system.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/system.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/system.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/system.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/system.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/system.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/edn_renderer.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/edn_renderer.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/edn_renderer.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/edn_renderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/edn_renderer.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/edn_renderer.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/markdown.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/markdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/markdown.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/markdown.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/utils.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/utils.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/devcards/util/utils.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/file_reloading.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/file_reloading.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/file_reloading.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/file_reloading.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/file_reloading.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/file_reloading.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/heads_up.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/heads_up.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/heads_up.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/heads_up.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/heads_up.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/heads_up.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/socket.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/socket.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/socket.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/socket.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/socket.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/socket.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/utils.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/utils.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/utils.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/utils.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/client/utils.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/connect.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/connect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/connect.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/figwheel/connect.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_datatables/core.cljs" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_datatables/core.cljs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_datatables/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_datatables/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_datatables/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/hello_datatables/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/core.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/core.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/interpreter.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/interpreter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/interpreter.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/interpreter.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/util.cljc.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/util.cljc.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/util.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/util.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/devcards_out/sablono/util.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hello_datatables/core.cljs" afterPath="$PROJECT_DIR$/src/hello_datatables/core.cljs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/hello-world/hello-world/pom.properties" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/hello-world/hello-world/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repl-port" afterPath="$PROJECT_DIR$/target/repl-port" />
     </list>
@@ -112,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="core.cljs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="core.cljs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hello_datatables/core.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.754717">
+            <state vertical-scroll-proportion="-17.777779">
               <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5084746">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -155,6 +82,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sam Griffith" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -668,11 +600,18 @@
       <option name="number" value="Default" />
       <updated>1452564087321</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/staypufd/DataTables_from_ClojureScript_in_DevCards_PlayGround&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;">
+      <created>1454020702908</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1454020702908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1148" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -683,7 +622,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19808307" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3883495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -713,7 +652,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/staypufd/DataTables_from_ClojureScript_in_DevCards_PlayGround&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/staypufd/DataTables_from_ClojureScript_in_DevCards_PlayGround&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -794,18 +736,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/hello_datatables/core.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5084746">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="-17.777779">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hello_datatables/core.cljs">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.754717">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.5084746">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>

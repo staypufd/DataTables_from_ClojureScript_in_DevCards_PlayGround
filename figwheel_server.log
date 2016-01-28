@@ -477,3 +477,28 @@ notifying browser that file changed:  out/hello_datatables/core.js
 [0mCompiling "resources/public/js/compiled/hello_world_devcards.js" from ["src"]...
 notifying browser that file changed:  out/hello_datatables/core.js
 [32mSuccessfully compiled "resources/public/js/compiled/hello_world_devcards.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" failed.
+[0mERROR: Invalid token: title: on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 28, column 62
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 0.819 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" failed.
+[0mERROR: Invalid token: title: on file /Users/samjr/dev/Clojure_Projects/devcards_playground/hello-world/src/hello_datatables/core.cljs, line 28, column 62
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 0.907 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 0.76 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 0.564 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 1.32 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_datatables_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_datatables/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_datatables_devcards.js" in 3.528 seconds.[0m
