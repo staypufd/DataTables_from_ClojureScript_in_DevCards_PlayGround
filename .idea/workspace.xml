@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1174073-77bb-457f-af34-99975f2fb4d6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hello-world.iws" />
@@ -79,8 +78,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="Sam Griffith Jr" />
         <option value="Sam Griffith" />
+        <option value="Sam Griffith Jr" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -614,7 +613,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454020996348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes in IDE">
+      <created>1454021048326</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1454021048326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -663,7 +668,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Merge branch 'master' of https://github.com/staypufd/DataTables_from_ClojureScript_in_DevCards_PlayGround&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/staypufd/DataTables_from_ClojureScript_in_DevCards_PlayGround&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;" />
+    <MESSAGE value="&#10;" />
+    <MESSAGE value="changes in IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in IDE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
