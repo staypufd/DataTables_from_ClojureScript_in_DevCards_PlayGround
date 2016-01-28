@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f1174073-77bb-457f-af34-99975f2fb4d6" name="Default" comment="" />
+=======
+    <list default="true" id="f1174073-77bb-457f-af34-99975f2fb4d6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> 7d7e07ab5925cbc59dae13977319dad941080c3b
     <ignored path="hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +82,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="Sam Griffith Jr" />
         <option value="Sam Griffith" />
+        <option value="Sam Griffith Jr" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -617,6 +623,7 @@
       <option name="project" value="LOCAL" />
       <updated>1454021048326</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="changes in IDE">
       <created>1454021063670</created>
       <option name="number" value="00005" />
@@ -630,6 +637,9 @@
       <updated>1454021108620</updated>
     </task>
     <option name="localTasksCounter" value="7" />
+=======
+    <option name="localTasksCounter" value="5" />
+>>>>>>> 7d7e07ab5925cbc59dae13977319dad941080c3b
     <servers />
   </component>
   <component name="ToolWindowManager">

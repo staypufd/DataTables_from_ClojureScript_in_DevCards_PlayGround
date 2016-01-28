@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ReplState" timestamp="1454021119363">{:repl-history {:ide [], :local [&quot;(+ 5 6)&quot; &quot;(+ 7 8)&quot; &quot;(.-x (java.awt.Point. 1 2))&quot;], :remote []}}</component>
+=======
+  <component name="ReplState" timestamp="1454021082748">{:repl-history {:ide [], :local [&quot;(+ 5 6)&quot; &quot;(+ 7 8)&quot; &quot;(.-x (java.awt.Point. 1 2))&quot;], :remote []}}</component>
+>>>>>>> 7d7e07ab5925cbc59dae13977319dad941080c3b
 </project>
