@@ -16,11 +16,16 @@ return React.createElement("div",null,React.createElement("h2",null,"Example: fn
 })], null));
 devcards.core.register_card.call(null,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"path","path",-188191168),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"hello_datatables.core","hello_datatables.core",311708036),new cljs.core.Keyword(null,"trigger-datatables-data-file-and-style-example-table","trigger-datatables-data-file-and-style-example-table",256305396)], null),new cljs.core.Keyword(null,"func","func",-238706040),(function (){
 return devcards.core.card_base.call(null,new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"name","name",1843675177),"trigger-datatables-data-file-and-style-example-table",new cljs.core.Keyword(null,"documentation","documentation",1889593999),null,new cljs.core.Keyword(null,"main-obj","main-obj",-1544409742),(function (data_atom,owner){
-var dataobj_21034 = cljs.core.clj__GT_js.call(null,new cljs.core.PersistentArrayMap(null, 2, ["data",new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, ["Tiger Nixon","System Architect","Edinburgh",(61),"2011/04/25","$320,800"], null),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, ["Tim Garrett","Accountant","Tokyo",(63),"2011/07/25","$170,750"], null)], null),"columns",new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentArrayMap(null, 1, ["title","Name"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Position"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Office"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Age"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Start date"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Salary"], null)], null)], null));
-jQuery("#example").DataTable(dataobj_21034);
+console.log("before .ready should be called");
 
-return React.createElement("div",null,React.createElement("h2",null,"Should cause table above to be styled like DataTables.net table and filled with data"));
+$(document,cljs.core.List.EMPTY).ready((function (){var dataobj = cljs.core.clj__GT_js.call(null,new cljs.core.PersistentArrayMap(null, 2, ["data",new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, ["Tiger Nixon","System Architect","Edinburgh",(61),"2011/04/25","$320,800"], null),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, ["Tim Garrett","Accountant","Tokyo",(63),"2011/07/25","$170,750"], null)], null),"columns",new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentArrayMap(null, 1, ["title","Name"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Position"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Office"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Age"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Start date"], null),new cljs.core.PersistentArrayMap(null, 1, ["title","Salary"], null)], null)], null));
+return jQuery("#example").DataTable(dataobj);
+})());
+
+console.log("after end of .ready");
+
+return "Function to set up DataTable called after documnet was ready";
 }),new cljs.core.Keyword(null,"initial-data","initial-data",-1315709804),new cljs.core.Keyword(null,"foo","foo",1268894036).cljs$core$IFn$_invoke$arity$1(null),new cljs.core.Keyword(null,"options","options",99638489),cljs.core.PersistentArrayMap.EMPTY], null));
 })], null));
 
-//# sourceMappingURL=core.js.map?rel=1455579489658
+//# sourceMappingURL=core.js.map?rel=1455585467076
