@@ -7,29 +7,6 @@
 
 (enable-console-print!)
 
-;(defonce datatable-init
-;         (.DataTable js/$))
-;
-;(defcard datatable-init-card datatable-init)
-
-;(defonce datatable
-;         (.ready (js/$ js/document)
-;                 (fn []
-;                   (let [dataobj (clj->js {"data" [["Tiger Nixon" "System Architect" "Edinburgh" 61 "2011/04/25" "$320,800"]
-;                                                   ["Tim Garrett"	"Accountant"	"Tokyo"	63	"2011/07/25"	"$170,750"]]
-;                                           "columns"
-;                                                  [{ "title" "Name" },
-;                                                   { "title" "Position" },
-;                                                   { "title" "Office" },
-;                                                   { "title" "Age" },
-;                                                   { "title" "Start date" },
-;                                                   { "title" "Salary" }]})]
-;                     (js/console.log (pr-str dataobj))
-;                     (.DataTable (js/jQuery "#example")
-;                                 dataobj)))))
-
-
-
 ;(defonce dt
 ;         (.ready (js/$ js/document())
 ;                 (let [dataobj (clj->js {"data" [["Tiger Nixon" "System Architect" "Edinburgh" 61 "2011/04/25" "$320,800"]
@@ -64,7 +41,9 @@
 
 (defcard trigger-datatables-data-file-and-style-example-table
          (fn [data-atom owner]
-           (let [dataobj (clj->js {"data" [["Tiger Nixon" "System Architect" "Edinburgh" 61 "2011/04/25" "$320,800"]
+           (js/console.log "before .ready should be called")
+           (.ready (js/$ js/document())
+                   (let [dataobj (clj->js {"data" [["Tiger Nixon" "System Architect" "Edinburgh" 61 "2011/04/25" "$320,800"]
                                            ["Tim Garrett" "Accountant" "Tokyo" 63 "2011/07/25" "$170,750"]]
                                    "columns"
                                           [{"title" "Name"},
@@ -73,16 +52,33 @@
                                            {"title" "Age"},
                                            {"title" "Start date"},
                                            {"title" "Salary"}]})]
-             (.DataTable (js/jQuery "#example") dataobj))
-           (sab/html [:div
-                      [:h2 "Should cause table above to be styled like DataTables.net table and filled with data"]]))
+             (.DataTable (js/jQuery "#example") dataobj)))
+           (js/console.log "after end of .ready")
+           "Function to set up DataTable called after documnet was ready")
+
+
          ;; This just is initial data to that function.  Doesn't matter what we pass as we just want the side-effect
          ;; of cuasing it to update the #example table element in the html.
          ;; We could do the data and columns init via this data passed in if we wanted too!
          (:foo nil)
          )
 
-
+;(defcard add-row-to-table
+;         (fn [data-atom owner]
+;           (let  [t (js/jQuery "#example")
+;                  r (.row() t) ]
+;                  (.add r (clj->js [
+;                                     ["Poppy Smith"
+;                                      "Researcher"
+;                                      "Atlanta, GA"
+;                                      "25"
+;                                      "2012/02/14"
+;                                      "$58,500"
+;                                      ]])))
+;           (.draw (js/Jquery "#example") true)
+;           )
+;         {:foo nil}
+;         )
 
 ;(defcard {}               ; main obj
 ;         {}               ; initial data
